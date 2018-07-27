@@ -1,0 +1,44 @@
+
+body{
+    text-align:center; 
+    color: rgb(255, 208, 0);
+    background-image:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/acgu0vt/abstract-crystalized-moving-fractal-motion-background-good-for-churches-lyrics-presentations-screen-savers-etc_hefs-zjnu__F0000.png");
+}
+h1{
+    margin: 0;
+    border: solid 5px red;
+}
+h4{
+    text-align: left;
+    color: black;
+}
+.links{ 
+    height: 50px;
+    width: 500px;
+    font-size: 25px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#first{
+    color: rgb(0, 255, 234);
+}
+#second{
+    color:green;
+}
+
+.row1{
+    height:28vh;
+    padding: 0; 
+    margin: 0; 
+}
+
+.row1{
+display: inline-grid;
+}
+
+footer{
+    font-size:20px;
+    color: black;
+    border: solid 3px red;
+}
